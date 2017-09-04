@@ -1,4 +1,4 @@
-{
+  {
   "name": "sails-mysql",
   "version": "1.0.0-15",
   "description": "MySQL adapter for Sails.js",
