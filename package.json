@@ -23,7 +23,7 @@
   "dependencies": {
     "async": "2.0.1",
     "lodash": "3.10.1",
-    "mysql": "2.11.1",
+    "mysql": "git://github.com/mysqljs/mysql.git#e3e123e9af7c0829a6c1417d911572a75b4a5f95",
     "waterline-cursor": "^0.0.7",
     "waterline-errors": "0.10.1",
     "waterline-sequel": "0.6.4"
